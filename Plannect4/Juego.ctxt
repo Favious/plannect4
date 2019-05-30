@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Juego
+comment1.params=numeroDeFilas\ numeroDeColumnas
+comment1.target=Juego(int,\ int)
+comment2.params=
+comment2.target=boolean\ verificarSiGano()
+comment3.params=
+comment3.target=void\ rellenarJuego()
+comment4.params=
+comment4.target=void\ jugar()
+comment5.params=posicionColumna
+comment5.target=int\ posicionDisponible(int)
+comment6.params=
+comment6.target=void\ pararJuego()
+comment7.params=numero
+comment7.target=java.lang.String\ crearPlaneta(int)
+numComments=8
